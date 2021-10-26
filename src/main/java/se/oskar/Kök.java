@@ -40,21 +40,3 @@ public class Kök {
         return amountOfSäckarFix;
     }
 }
-
-/* public double calcKakelplattorKök(double userInput){
-    kakelplattor = 15;
-    double kakelplattorReturn = kakelplattor * userInput;
-    return kakelplattorReturn;
-}
-
-public double calcKakelfixKök(double userInput){
-    kakelfix = 0.7;
-    double kakelfixReturn = kakelfix * userInput;
-    return kakelfixReturn;
-}
-
-public double calcKakelfogKök(double userInput){
-    kakelfog = 0.4;
-    double kakelfogReturn = kakelfog * userInput;
-    return kakelfogReturn;
-} */

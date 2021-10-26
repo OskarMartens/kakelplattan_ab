@@ -40,23 +40,3 @@ public class Hall {
         return amountOfSäckarFix;
     }
 }
-
-
-/* 
-public double calcKakelplattorHall(double userInput){
-        kakelplattor = 8;
-        double kakelplattorReturn = kakelplattor * userInput;
-        return kakelplattorReturn;
-    }
-
-    public double calcKakelfixHall(double userInput){
-        kakelfix = 0.3;
-        double kakelfixReturn = kakelfix * userInput;
-        return kakelfixReturn;
-    }
-
-    public double calcKakelfogHall(double userInput){
-        kakelfog = 0.25;
-        double kakelfogReturn = kakelfog * userInput;
-        return kakelfogReturn;
-*/
